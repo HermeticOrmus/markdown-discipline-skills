@@ -1,0 +1,43 @@
+---
+description: Markdown discipline — strip AI-slop tells from markdown. No em dashes, no marketing fluff, no emoji bullets, no triple-cataloging.
+alwaysApply: true
+---
+
+# Markdown discipline
+
+Apply to docs, READMEs, briefs, and any markdown content.
+
+## Banned
+
+- Emoji in headings, as bullets, as dividers, as decoration
+- Marketing adjectives: "robust", "powerful", "comprehensive", "seamless", "world-class", "best-in-class"
+- "leverage" as a verb
+- Welcome banners, "Let's dive in", celebration emoji
+- Triple-cataloging: "fast, simple, and reliable"
+- Antithesis: "It's not X; it's Y"
+- Soft closes: "Hope this helps!"
+- Title Case headings (use sentence case)
+- Em dash overuse (more than 1-2 per page)
+- Excessive bold (one bolded phrase per paragraph max)
+- Block quotes used as warning callouts
+- Multiple H1s per file
+- Sentence fragments for emphasis ("Fast. Reliable. Powerful.")
+
+## Required
+
+- Sentence case headings: `## Why this exists`
+- One `#` per file
+- Headings describe what's BELOW them, not announce them
+- One sentence per bullet ideally; max 2 levels of nesting
+- Code blocks specify language: ` ```bash`, ` ```ts`
+- Inline code for filenames, env vars, command names, types
+- Link text describes destination, not "click here"
+- Relative paths for in-repo links
+- Tables only when comparing 3+ items across 2+ dimensions
+
+## Reading test
+
+For any paragraph: does the second half add new information? If no, cut.
+For any list of three: are these distinct things or padded synonyms? If padded, cut.
+For any heading: does it tell me what's in the section? If no, rewrite.
+For any em dash: would a comma work? If yes, use it.
