@@ -1,6 +1,23 @@
-# Markdown Discipline Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Markdown Discipline Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` that strips AI-slop from markdown. No em dashes, no marketing fluff, no emoji bullets, no triple-cataloging, no soft closes.
+<h1 align="center">Markdown Discipline Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md that strips AI-slop from markdown — no em dashes, no marketing fluff, no emoji bullets, sentence case headings. Anti-AI-tells discipline for any AI-assisted writing.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/markdown-discipline-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/markdown-discipline-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/markdown-discipline-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/markdown-discipline-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/markdown-discipline-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/markdown-discipline-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` that strips AI-slop from markdown. No em dashes, no marketing fluff, no emoji bullets, no triple-cataloging, no soft closes.**
 
 ## The problem
 
